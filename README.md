@@ -1,6 +1,6 @@
 # 🧵 About the Project
 
-**Project by Manel Comiche, Oriol Vila, Ana Jiménez, and Alicia Martí**,
+**Project by Manel Comiche, Oriol Vilà, Ana Jiménez, and Alicia Martí**,
 developed for the **FME Datathon 2025** at the **Universitat Politècnica de Catalunya (UPC)**.
 
 ---
